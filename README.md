@@ -10,8 +10,8 @@ Question Answering Systems allow a user to express a question in natural languag
 The project aims to predict answers to the given set of questions with the help of embedding and transformer based models and evaluate their results.
 
 ## Tasks
-• Created a scalable QnA model by leveraging preprocessed Word2Vec, SIF embeddings on SQuAD v1.1 with 100K+ pairs
-• Achieved high accuracy of 81% EM and 84.5% F1-Score by implementing Distil-BERT-BERT ensemble transformer model
+- • Created a scalable QnA model by leveraging preprocessed Word2Vec, SIF embeddings on SQuAD v1.1 with 100K+ pairs
+- • Achieved high accuracy of 81% EM and 84.5% F1-Score by implementing Distil-BERT-BERT ensemble transformer model
 
 
 ## Models
