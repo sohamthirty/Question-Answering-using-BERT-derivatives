@@ -28,3 +28,8 @@ The project aims to predict answers to the given set of questions with the help 
 ![image](https://github.com/sohamthirty/Question-Answering-using-BERT-derivatives/assets/56295513/f382331b-340f-41bc-9281-d97805d9ef28)
 
 
+## Conclusion
+We used cosine similarity as metrics for embeddings model and EM and F1 score as metric for the other two categories. 
+Our models performed quite well, with an EM score of above 84% for the BERT and ensemble models. 
+
+In future, we would try to explore more efficient variants of BERT like ELECTRA and ROBERTa and explore top performing ensemble architectures like IE-Net which achieves accuracy of 90% with EM metrics.
