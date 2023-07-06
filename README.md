@@ -3,8 +3,8 @@
 ## Data
 **[SQuAD 1.1 | Pranav Rajpurkar](https://rajpurkar.github.io/SQuAD-explorer/)**
 
-## Introduction
-Designing a Question and Answering (Q&A) system is a critical problem in the field of NLP and IR. Extensive use case and applications in businesses, academia and lifestyle. Helps to access the immense information and create systems which can answer natural language queries with relevant information. Q&A systems aid in rapidly getting the desired information without the need to go through the entire corpus.
+## Overview
+Question Answering Systems allow a user to express a question in natural language and get an immediate and brief response. It is an important task in the field of information retrieval and natural language processing (NLP). They enable us to properly use the huge amounts of information by helping in saving time and effort to scan the entire corpus. QA systems are found in search engines and phone conversational interfaces, and they’re good at answering simple snippets of information. The dataset being used in this project is the SQuAD1.1 which contains 100,000+ text answers to every question from a Wikipedia based reading passage.
 
 ## Problem Statement
 The project aims to predict answers to the given set of questions with the help of embedding and transformer based models and evaluate their results.
