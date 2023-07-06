@@ -17,3 +17,14 @@ The project aims to predict answers to the given set of questions with the help 
 ## Models
 1. Embedding models: **Word2Vec, SIF**
 2. Transformer models: **BERT, ALBERT, DISTILBERT**
+
+
+## Results
+
+### QnA Snippet
+![image](https://github.com/sohamthirty/Question-Answering-using-BERT-derivatives/assets/56295513/935de381-7633-45d3-b597-340b00002a10)
+
+### Metrics
+![image](https://github.com/sohamthirty/Question-Answering-using-BERT-derivatives/assets/56295513/f382331b-340f-41bc-9281-d97805d9ef28)
+
+
